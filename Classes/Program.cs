@@ -109,6 +109,31 @@ calculadora.Somar(3, 5);
 calculadora.Subtrair(3, 5);
 calculadora.Multiplicar(3, 5);
 calculadora.Dividir(3, 5);
+calculadora.Potencia(3, 4);
+calculadora.Seno(30);
+calculadora.Cosseno(30);
+calculadora.Tangente(30);
+calculadora.RaizQuadrada(81);
+
+// int numero = 10;
+//
+// Console.WriteLine(numero);
+//
+// numero = numero + 1;
+//
+// Console.WriteLine(numero);
+//
+// numero += 1;
+//
+// Console.WriteLine(numero);
+//
+// numero++;
+//
+// Console.WriteLine(numero);
+//
+// numero--;
+//
+// Console.WriteLine(numero);
 
 
 
